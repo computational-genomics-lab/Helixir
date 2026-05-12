@@ -61,6 +61,14 @@ pip install -e ".[dev]"
 
 ## Usage
 
+### Quick start
+
+The fastest way is to just run it — the tool will ask you for everything it needs:
+
+```bash
+helixir
+```
+
 ### Interactive mode
 
 Run with no arguments — Helixir guides you through everything:
