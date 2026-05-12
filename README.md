@@ -1,6 +1,5 @@
 # Helixir 🧬
 
-[![CI][badge-ci]][link-ci]
 [![PyPI][badge-pypi]][link-pypi]
 [![Python][badge-python]][link-python]
 [![License: MIT][badge-license]][link-license]
