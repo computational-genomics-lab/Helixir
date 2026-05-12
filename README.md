@@ -1,10 +1,31 @@
 # Helixir 🧬
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Built on Biopython](https://img.shields.io/badge/built%20on-Biopython-green.svg)](https://biopython.org/)
+[![CI][badge-ci]][link-ci]
+[![PyPI][badge-pypi]][link-pypi]
+[![Python][badge-python]][link-python]
+[![Python 3.8+][badge-py38]][link-py38]
+[![License: MIT][badge-license]][link-license]
+[![Built on Biopython][badge-biopython]][link-biopython]
 
-**Author:** Deepbendu Das
+<!-- Badge images -->
+[badge-ci]:        https://github.com/your-username/helixir/actions/workflows/ci.yml/badge.svg
+[badge-pypi]:      https://img.shields.io/pypi/v/helixir.svg
+[badge-python]:    https://img.shields.io/pypi/pyversions/helixir.svg
+[badge-py38]:      https://img.shields.io/badge/python-3.8%2B-blue.svg
+[badge-license]:   https://img.shields.io/badge/License-MIT-yellow.svg
+[badge-biopython]: https://img.shields.io/badge/built%20on-Biopython-green.svg
+
+<!-- Badge links -->
+[link-ci]:        https://github.com/your-username/helixir/actions
+[link-pypi]:      https://pypi.org/project/helixir/
+[link-python]:    https://pypi.org/project/helixir/
+[link-py38]:      https://www.python.org/downloads/
+[link-license]:   https://opensource.org/licenses/MIT
+[link-biopython]: https://biopython.org/
+
+---
+
+**Author:** Deepbendu Das  
 **GitHub:** [@dasdeepbendu12-dev](https://github.com/dasdeepbendu12-dev)
 
 **Helixir** predicts secondary structure of peptides and proteins from their primary amino acid sequence using **Chou-Fasman** and **GOR IV** algorithms, and exports a richly formatted **`.xlsx`** report.
