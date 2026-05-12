@@ -1,8 +1,5 @@
 # Helixir 🧬
 
-[![CI][badge-ci]][link-ci]
-[![PyPI][badge-pypi]][link-pypi]
-[![Python][badge-python]][link-python]
 [![Python 3.8+][badge-py38]][link-py38]
 [![License: MIT][badge-license]][link-license]
 [![Built on Biopython][badge-biopython]][link-biopython]
@@ -28,6 +25,7 @@
 **Author:** Deepbendu Das  
 **GitHub:** [@dasdeepbendu12-dev](https://github.com/dasdeepbendu12-dev)
 
+## What does Helixir do?
 **Helixir** predicts secondary structure of peptides and proteins from their primary amino acid sequence using **Chou-Fasman** and **GOR IV** algorithms, and exports a richly formatted **`.xlsx`** report.
 
 ---
@@ -227,6 +225,20 @@ twine upload dist/*
 
 ---
 
+## Contributing
+
+Issues and pull requests are welcome. For bug reports, please include:
+
+1. Your Python version and OS
+2. A minimal example input file
+3. The full error output
+
 ## License
 
-[MIT](LICENSE) © Your Name
+Copyright (c) 2026 STLAB at Indian Institute of Chemical Biology
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
