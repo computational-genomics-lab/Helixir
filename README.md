@@ -59,6 +59,16 @@ pip install -e ".[dev]"
 
 ---
 
+### Uninstallation
+
+If you no longer need Helixir, remove it with:
+
+```bash
+pip3 uninstall helixir
+```
+
+---
+
 ## Usage
 
 ### Quick start
