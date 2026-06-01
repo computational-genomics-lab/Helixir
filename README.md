@@ -52,7 +52,7 @@ pip install helixir
 # From source
 git clone https://github.com/your-username/helixir.git
 cd helixir
-pip install -e ".[dev]"
+pip install -e ".[dev]" / pip install -e . 
 ```
 
 **Requirements:** Python ≥ 3.9, Biopython, openpyxl, pandas, colorama, tabulate
